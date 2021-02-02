@@ -1,1 +1,1 @@
-# ClassificationofIrisDataset
+# Classification of Iris Dataset
